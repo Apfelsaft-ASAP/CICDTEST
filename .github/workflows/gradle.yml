@@ -16,7 +16,7 @@ on:
 env:
   AWS_REGION: ap-northeast-2
   S3_BUCKET_NAME: been-github-actions-s3-bucket
-  CODE_DEPLOY_APPLICATION_NAME: been-codedeploy-app
+  CODE_DEPLOY_APPLICATION_NAME: been-deploy-app
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: been-codedeploy-deployment-group
 
 permissions:
