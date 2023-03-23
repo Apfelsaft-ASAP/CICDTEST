@@ -20,7 +20,7 @@ import java.util.List;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api/board")
-public class BoardController {  //원트가능?
+public class BoardController {  //원트가능?//원트실패
 
     private final BoardService boardService;
     private final UserService userService;
