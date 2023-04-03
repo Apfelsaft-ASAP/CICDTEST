@@ -22,7 +22,7 @@ import java.util.List;
 @RequestMapping("/api/board")
 public class BoardController {  //원트가능?//원트실패//휴먼오류 미쳤다//이제 성공?//ㄹㅇ 찐막
 
-    private final BoardService boardService;//커밋테스트//2ㅌ/2/2
+    private final BoardService boardService;//커밋테스트//2ㅌ/2/2222
     private final UserService userService;
 
     // 글생성
